@@ -1,0 +1,27 @@
+#container{
+    
+  height: 1000px;
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+}
+
+
+.bulboff{
+  
+    height: 700px;
+    width: 500px;
+    background: url('bulboff.jpg')no-repeat;
+    margin: auto;
+
+}
+
+
+.bulbon{
+   
+    height: 700px;
+    width: 500px;
+    background: url('bulbon.jpg')no-repeat;
+    margin: auto;
+
+}
